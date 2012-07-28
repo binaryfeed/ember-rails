@@ -1,3 +1,8 @@
+# ----- DIFFERENCES FROM UPSTREAM -----
+
+Right now, the only difference between this and upstream is that I've updated both ember.js and ember-data.js (for all environments) to HEAD as of 2012-07-28.
+
+
 # ember-rails  [![Build Status](https://secure.travis-ci.org/emberjs/ember-rails.png?branch=master)](http://travis-ci.org/emberjs/ember-rails) [![Dependency Status](https://gemnasium.com/emberjs/ember-rails.png)](https://gemnasium.com/emberjs/ember-rails)
 
 ember-rails allows you to include [Ember.JS](http://emberjs.com/) into your Rails 3.1+ application.
